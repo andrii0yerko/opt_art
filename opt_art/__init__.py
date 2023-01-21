@@ -1,0 +1,1 @@
+from .truchet import ElasticTruchetTiles
